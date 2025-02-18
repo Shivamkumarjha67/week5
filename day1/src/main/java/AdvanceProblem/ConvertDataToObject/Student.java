@@ -1,4 +1,4 @@
-package ConvertDataToObject;
+package AdvanceProblem.ConvertDataToObject;
 
 public class Student {
     private String ID;
