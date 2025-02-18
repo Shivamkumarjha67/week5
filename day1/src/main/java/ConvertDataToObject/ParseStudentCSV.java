@@ -1,4 +1,4 @@
-package ConvertDataObject;
+package ConvertDataToObject;
 
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;

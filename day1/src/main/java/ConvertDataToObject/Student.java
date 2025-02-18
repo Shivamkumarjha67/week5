@@ -1,4 +1,4 @@
-package ConvertDataObject;
+package ConvertDataToObject;
 
 public class Student {
     private String ID;
