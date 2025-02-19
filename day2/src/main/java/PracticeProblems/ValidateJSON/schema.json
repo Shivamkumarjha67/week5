@@ -1,0 +1,5 @@
+{
+  "name" : {"type" :  "string"},
+  "age" : {"type" :  "integer"},
+  "gender" : {"type" :  "string"}
+}
